@@ -1,4 +1,4 @@
-# streamlit_app.py
+# streamlit_app
 import streamlit as st
 from snowflake.snowpark.context import get_active_session
 import pandas as pd
