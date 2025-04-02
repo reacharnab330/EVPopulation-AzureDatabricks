@@ -16,10 +16,10 @@ The project has two components :
 
 Folloiwng the multilayer datalake architecture the following datasets are created in different layers :
 
-Bronze    : ev_raw, ev_metadata, ev_data ;
-Silver    : ev_population, ev_approvals ;
-Gold      : ev_population_clean ;
-Snowflake : ev_population ;
+1. Bronze    : ev_raw, ev_metadata, ev_data
+2. Silver    : ev_population, ev_approvals
+3. Gold      : ev_population_clean
+4. Snowflake : ev_population 
 
 # How to use this project 
 
